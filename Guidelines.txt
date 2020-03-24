@@ -1,0 +1,15 @@
+NOTE:
+
+-Codes of both chapter are seperated by folders. (Chap 4 and Chap 5)
+
+-The files who's name include "PQ" are programming question.(only in chap 4)
+
+-Rest of the question can be wasily recongnized by file's name.
+
+
+
+
+
+
+
+-THANKYOU!
